@@ -1,0 +1,25 @@
+				
+			ML ASSIGNMENT 3 --- FACE DETECTION USING NAIVE BAYES.
+
+GROUP MEMBERS-
+Koushik Modugu 		2014A7PS014H
+Rahul Ladda    		2014A7PS078H
+Sagar Suman		
+Prashanth Yadla  	2013B5A7561H
+
+
+
+Accuracy obtained on test data is 90.66% .
+Smoothing constant(equivalent sample size) is taken 2 as p is 0.5 as attribute(pixel) has 2 possible values(0 and 1).
+
+CONFUSION MATRIX:
+Drawing the matrix here is difficult, So mentioning the values of Confusion matrix.
+
+1)True Positives: 67
+2)True Negatives: 69
+3)False Positives: 9
+4)False Negatives: 5
+
+Recall: 93%
+Precision: 88%
+Accuracy: 90.66%
